@@ -1,1 +1,1 @@
-# github-demo
+# repo for AQA training
